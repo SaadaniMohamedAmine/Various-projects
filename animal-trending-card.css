@@ -1,0 +1,47 @@
+body {
+    
+    font-family: 'Roboto Mono', monospace;
+}
+.container {
+    border:5px solid gray;
+    width:50%;
+    height:100%;
+    margin:10px auto;
+    padding:20px;
+    background-color:beige;
+    box-shadow:-6px 4px 3px gray ;
+}
+h1{
+    text-align: center;
+    font-size: 30pt;
+    border-left:10px double grey;
+    border-right:10px double grey;
+}
+.image{text-align: center;
+   
+   padding:3px; 
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;}
+  img{border:1px solid #ccc;
+    padding:5px;
+      width:85%;
+      box-shadow: 0px 0px 17px #bbb;
+  }
+
+.intersting-fact,.key-characteristics,.informational-paragraph{
+    margin:50px auto;
+}
+.intersting-fact{
+    font-style: italic;
+    
+}
+span{
+    font-weight: bolder;
+}
+.animal-info{
+    padding:25px ;
+}
+.key-characteristics{
+    border-left:10px ridge;
+}
